@@ -96,15 +96,15 @@ html {
 }
 
 #headerwrap h1 {
-	margin-top: 150px;
+	margin-top: 2.15em;
 	color: white;
-	font-size: 70px;
+	font-size: 4.375em;
 	font-weight: 700;
 }
 
 #headerwrap h3 {
 	color: white;
-	font-size: 30px;
+	font-size: 1.875em;
 	font-weight: 100;
     font-family: 'EB Garamond', serif;
     font-style: oblique;
@@ -121,8 +121,8 @@ html {
 
 #f {
 	background: #1a1a1a;
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 4.375em;
+	padding-bottom: 4.375em;
 	text-align: center
 }
 
